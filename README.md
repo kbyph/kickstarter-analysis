@@ -15,7 +15,7 @@ and how high Louise should realistically aim for her target goal.
 - The purpose of this analysis is to give Louise extra insight on what factors 
 may cause the success or failure in a kickstarter campaign. This is because 
 certain kickstarters seemingly achieve success in specific months more than others, 
-or that some reuest for too little or too much funding. Therefore, we can utilize 
+or that some request for too little or too much funding. Therefore, we can utilize 
 this information in order for Louise to determine which scenarios are a best fit 
 when analyzing both factors in the sample dataset.
 
